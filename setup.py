@@ -15,7 +15,7 @@ setup(
     author='Adi Sieker',
     author_email='adi@sieker.io',
     packages=['onetomany',],
-    url='http://github.com/adsworth/onetomany/',
+    url='http://github.com/adsworth/django-onetomany/',
     platforms=['OS Independent'],
     license='LICENSE.txt',
     classifiers=CLASSIFIERS,
