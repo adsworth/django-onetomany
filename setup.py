@@ -1,4 +1,6 @@
 from distutils.core import setup
+import os
+
 
 CLASSIFIERS = [
     'Environment :: Web Environment',
@@ -9,6 +11,8 @@ CLASSIFIERS = [
     'Programming Language :: Python',
     'Topic :: Software Development :: Libraries :: Application Frameworks',
 ]
+
+
 setup(
     name='django-onetomany',
     version='0.0.1',
